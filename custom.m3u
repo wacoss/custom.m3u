@@ -18,8 +18,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 ,TVU 
 https://pantera1-100gb-cl-movistar.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 ,La Red 
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 ,UCV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
 #EXTINF:-1 ,TVMas2 
